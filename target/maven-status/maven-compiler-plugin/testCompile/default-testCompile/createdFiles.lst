@@ -7,7 +7,6 @@ tests\SortTest.class
 tests\BaseTest.class
 tests\LoginTest.class
 pages\InventoryPage.class
-tests\FooterTest.class
 utils\AllureAttachments.class
 pages\CheckoutPage.class
 pages\FooterPage.class
